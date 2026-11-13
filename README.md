@@ -4,6 +4,20 @@ Organizador de series, películas, libros y cómics. Planifica los cambios antes
 mover nada, muestra la confianza de cada coincidencia y permite deshacer la última
 operación.
 
+## Capturas
+
+### Organizador
+
+![Pestaña Organizador](docs/screenshots/organizador.png)
+
+### Google Drive `.strm`
+
+![Pestaña Google Drive .strm](docs/screenshots/google-drive.png)
+
+### YouTube `.strm`
+
+![Pestaña YouTube .strm](docs/screenshots/youtube.png)
+
 ## Series y películas
 
 - Series: TMDb o TheTVDB (`THETVDB_API_KEY` opcional).
