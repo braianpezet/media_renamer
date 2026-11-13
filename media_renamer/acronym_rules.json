@@ -1,0 +1,108 @@
+{
+  "_comment": "Reglas de acr\u00f3nimos para subseries conocidas. Editable sin tocar el c\u00f3digo.",
+  "_format": {
+    "parent_query": "Nombre a buscar en TMDb (serie principal)",
+    "target_season": "N\u00famero de temporada fija (para subseries de una sola temporada)",
+    "season_ranges": "Mapa de temporada -> [ep_inicio, ep_fin] para subseries de m\u00faltiples temporadas"
+  },
+
+  "PRMM": {
+    "_name": "Power Rangers Mighty Morphin",
+    "parent_query": "Power Rangers",
+    "season_ranges": {
+      "1": [1, 60],
+      "2": [61, 112],
+      "3": [113, 155]
+    }
+  },
+
+  "PRZT": {
+    "_name": "Power Rangers Zeo",
+    "parent_query": "Power Rangers",
+    "target_season": 4
+  },
+
+  "PRTB": {
+    "_name": "Power Rangers Turbo",
+    "parent_query": "Power Rangers",
+    "target_season": 5
+  },
+
+  "PRIS": {
+    "_name": "Power Rangers in Space",
+    "parent_query": "Power Rangers",
+    "target_season": 6
+  },
+
+  "PRGP": {
+    "_name": "Power Rangers Lost Galaxy",
+    "parent_query": "Power Rangers",
+    "target_season": 7
+  },
+
+  "PRLR": {
+    "_name": "Power Rangers Lightspeed Rescue",
+    "parent_query": "Power Rangers",
+    "target_season": 8
+  },
+
+  "PRFDT": {
+    "_name": "Power Rangers Time Force",
+    "parent_query": "Power Rangers",
+    "target_season": 9
+  },
+
+  "PRWS": {
+    "_name": "Power Rangers Wild Force",
+    "parent_query": "Power Rangers",
+    "target_season": 10
+  },
+
+  "PRNS": {
+    "_name": "Power Rangers Ninja Storm",
+    "parent_query": "Power Rangers",
+    "target_season": 11
+  },
+
+  "PRTN": {
+    "_name": "Power Rangers Tormenta Ninja",
+    "parent_query": "Power Rangers",
+    "target_season": 11
+  },
+
+  "PRDT": {
+    "_name": "Power Rangers Dino Thunder",
+    "parent_query": "Power Rangers",
+    "target_season": 12
+  },
+
+  "PRSPD": {
+    "_name": "Power Rangers S.P.D.",
+    "parent_query": "Power Rangers",
+    "target_season": 13
+  },
+
+  "PRMF": {
+    "_name": "Power Rangers Mystic Force",
+    "parent_query": "Power Rangers",
+    "target_season": 14
+  },
+
+  "PROP": {
+    "_name": "Power Rangers Operation Overdrive",
+    "parent_query": "Power Rangers",
+    "target_season": 15
+  },
+
+  "PRJF": {
+    "_name": "Power Rangers Jungle Fury",
+    "parent_query": "Power Rangers",
+    "target_season": 16
+  },
+
+  "PRRPM": {
+    "_name": "Power Rangers RPM",
+    "parent_query": "Power Rangers",
+    "target_season": 17
+  }
+}

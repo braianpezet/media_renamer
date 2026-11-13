@@ -1,0 +1,20 @@
+# Secrets and local configuration
+.env
+
+# Local metadata caches
+.thetvdb_cache.json
+.tmdb_cache.json
+.books_cache.json
+
+# Local rename history (contains personal paths)
+rename_history.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
